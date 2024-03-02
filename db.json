@@ -1,8 +1,8 @@
 {
   "data":{
-  "data1": "Hello, World!",
-  "data2": 42,
-  "data3": true,
+  "url": "Hello, World!",
+  "clock": 42,
+  "nation":"assd",
   "data4": [1, 2, 3, 4, 5],
   "data5": {
     "key1": "value1",
